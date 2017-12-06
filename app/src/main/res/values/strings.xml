@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EveryDay</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="music">music</string>
+    <string name="article">article</string>
+    <string name="saying">saying</string>
+    <string name="beauty">beauty</string>
+    <string name="back">返回</string>
+    <string name="article_conent">\t\t据新华网消息，近日有记者爆料称呼和浩特地区中国联通合作营业厅的手机扣费乱象惊人。不但旧号码莫名其妙被“低消”近一年，办了个新号还没用就已经被迫数次交费。为此，他还和客服沟通了十多次，但问题依然没有得到解决，甚至连交费记录都离奇“失踪”。据新华网消息，近日有记者爆料称呼和浩特地区中国联通合作营业厅的手机扣费乱象惊人。不但旧号码莫名其妙被“低消”近一年，办了个新号还没用就已经被迫数次交费。为此，他还和客服沟通了十多次，但问题依然没有得到解决，甚至连交费记录都离奇“失踪”。据新华网消息，近日有记者爆料称呼和浩特地区中国联通合作营业厅的手机扣费乱象惊人。不但旧号码莫名其妙被“低消”近一年，办了个新号还没用就已经被迫数次交费。为此，他还和客服沟通了十多次，但问题依然没有得到解决，甚至连交费记录都离奇“失踪”。</string>
+    <string name="article_title">联通收费乱象</string>
+    <string name="article_author">小鱼儿</string>
+    <string name="article_time">2017-11-28 11:53</string>
+</resources>

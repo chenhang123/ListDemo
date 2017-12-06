@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/img_beauty"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="130dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_menu_gallery" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/img_beauty"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:id="@+id/tv_beauty"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/article_conent" />
+    </ScrollView>
+
+</RelativeLayout>
